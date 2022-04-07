@@ -1,0 +1,15 @@
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\bin\Debug\net6.0\EFGetStarted.exe
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\bin\Debug\net6.0\EFGetStarted.deps.json
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\bin\Debug\net6.0\EFGetStarted.runtimeconfig.json
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\bin\Debug\net6.0\EFGetStarted.dll
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\bin\Debug\net6.0\ref\EFGetStarted.dll
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\bin\Debug\net6.0\EFGetStarted.pdb
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\obj\Debug\net6.0\EFGetStarted.csproj.AssemblyReference.cache
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\obj\Debug\net6.0\EFGetStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\obj\Debug\net6.0\EFGetStarted.AssemblyInfoInputs.cache
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\obj\Debug\net6.0\EFGetStarted.AssemblyInfo.cs
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\obj\Debug\net6.0\EFGetStarted.csproj.CoreCompileInputs.cache
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\obj\Debug\net6.0\EFGetStarted.dll
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\obj\Debug\net6.0\ref\EFGetStarted.dll
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\obj\Debug\net6.0\EFGetStarted.pdb
+C:\Users\KN170\RiderProjects\Entity Frametamer\EFGetStarted\obj\Debug\net6.0\EFGetStarted.genruntimeconfig.cache
